@@ -1,4 +1,4 @@
-<p align="center"><img src="public/img/logo.png" width="400"></p>
+<p align="center"><img src="public/img/logo.png" width="150"></p>
 
 ## About TaraPay 
 Simple project on Laravel framework for visual test API's payment service of TaraPay.
