@@ -17,15 +17,20 @@ Simple project on Laravel framework for visual test API's payment service of Tar
 4. cp .env.example .env
 
 5. edit  .env fill your data:
-
-نام کاربری , رمز عبور و کد درگاه  تارا پی  را حتما باید وارد کنید
-  
- TARAPAY_USERNAME,
- TARAPAY_PASSWORD,
- TARAPAY_GATEWAY
+TARAPAY_USERNAME,TARAPAY_PASSWORD, TARAPAY_GATEWAY 
 6. php artisan migrate:fresh
 7.  php artisan key:generate
 8. php artisan serve
 9. echo '127.0.0.1:8000' 
+## توجه
+نام کاربری , رمز عبور و کد درگاه  تارا پی  را حتما باید
+در فایل
+
+.env 
+
+وارد کنید
+  
+ 
+ 
 
 
